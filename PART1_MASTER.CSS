@@ -1,0 +1,23 @@
+/* basic format */
+
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color: rgb(94,115,73);
+}
+
+/* google color picker */
+li{
+  color: #222e09;
+}
+
+p{
+  color: green;
+}
+
+/* transparency */
+h4{
+  color: rgba(94,115,49,0.5)
+}

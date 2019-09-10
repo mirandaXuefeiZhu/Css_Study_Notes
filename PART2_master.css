@@ -1,0 +1,29 @@
+/* BODY */
+/* affect everything in the body  */
+
+
+/* background can be a image */
+
+body{
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+div{
+  background: #a8cf59;
+  border-color: #34401c;
+  border-width: 5px;
+  border-style: double;
+}
+
+/* p : all the paragragh inside and outside the div */
+p{
+  color: #628a6a;
+}
+
+span{
+  background: green;
+  color: black;
+}
