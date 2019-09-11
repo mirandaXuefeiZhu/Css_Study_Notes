@@ -1,0 +1,63 @@
+/*Choose a cool Font Text Scheme*/
+
+h1{
+  font-family: 'UniqueRegular';
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+}
+
+/*Choose a color palette from here:
+https://coolors.co/
+or create your own here:
+paletton.com/*/
+
+/*
+I chose:
+
+#247BA0
+#70C1B3
+#B2DBBF
+#F3FFBD
+#FF1654
+
+*/
+
+.art{
+  margin: 50px;
+}
+
+
+td{
+  font-family: 'UniqueRegular';
+  font-weight: lighter;
+  font-style: normal;
+  text-align: center;
+  color: black;
+  text-decoration-style: wavy;
+
+  height: 200px;
+  padding: 100px;
+  border: 6px solid white;
+  text-align: center;
+}
+
+#one{
+  background-color: #84DCC6;
+}
+
+#two{
+  background-color: #A5FFD6;
+}
+
+#three{
+  background-color: #FFA69E;
+}
+
+#four{
+  background-color: #F686BD;
+}
+
+#five{
+  background-color: #FFFFFF;
+}
